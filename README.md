@@ -55,9 +55,9 @@ MovieAnalyticsPipeline/
 │   │   ├── java/
 │   │   │   └── org/
 │   │   │       └── example/
-│   │   │           ├── KafkaMovieProducer.java
-│   │   │           ├── MovieRecommender.java
-│   │   │           └── StreamingAnalytics.java
+│   │   │           ├── KafkaMovieProducer.scala
+│   │   │           ├── MovieRecommender.scala
+│   │   │           └── StreamingAnalytics.scala
 │   │   └── resources/
 │   └── test/
 ├── target/
